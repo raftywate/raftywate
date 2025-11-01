@@ -6,7 +6,7 @@
 It integrates a secure API to compile and run user code in 10+ languages (C#, Python, Java, etc.), validating solutions against hidden and visible test cases.
 
 🌱 Currently learning more about **databases** and **scalable system design**.  
-💬 Ask me about **technology, movies, books, and songs.**
+💬 Ask me about **technology, movies, books, and music.**
 
 ---
 
