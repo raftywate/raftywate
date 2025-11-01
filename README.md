@@ -36,13 +36,6 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 ---
 
-### 🧊 3D Contribution Chart
-<p align="center">
-  <img src="https://github.com/raftywate/raftywate/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Chart" />
-</p>
-
----
-
 ### ✨ Daily Motivation
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
