@@ -24,7 +24,7 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 ### 📊 GitHub Stats
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raftywate&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=raftywate&theme=radical)
 
 ---
 
