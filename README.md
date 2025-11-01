@@ -1,48 +1,50 @@
-## Hi there 👋, I'm Abhishek
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20there!%20I'm%20Abhishek%20👋&fontSize=32&fontAlignY=35&fontColor=ffffff)
 
-### 🔭 Currently Working On
-**BitSmith** — a web application featuring a .NET 8 REST API, an Angular frontend, and a SQL Server database.  
-It integrates a secure API to compile and run user code in 10+ languages (C#, Python, Java, etc.), validating solutions against a library of hidden and visible test cases.
+## 🚀 About Me
+🔭 Currently working on **BitSmith** — a web application featuring a .NET 8 REST API, an Angular frontend, and a SQL Server database.  
+It integrates a secure API to compile and run user code in 10+ languages (C#, Python, Java, etc.), validating solutions against hidden and visible test cases.
 
----
-
-### 🌱 Learning
-- Diving deeper into **databases**
-- Building **scalable and reliable solutions** to real-world problems
-
----
-
-### 💬 Ask Me About
-Technology • Movies • Books • Songs
+🌱 Currently learning more about **databases** and **scalable system design**.  
+💬 Ask me about **technology, movies, books, and songs.**  
 
 ---
 
 ### 🛠️ Tech Stack
-![.NET](https://img.shields.io/badge/-.NET-05122A?logo=dotnet)
-![C++](https://img.shields.io/badge/-C++-05122A?logo=cplusplus)
-![C](https://img.shields.io/badge/-C-05122A?logo=c)
-![Angular](https://img.shields.io/badge/-Angular-05122A?logo=angular)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?logo=microsoftsqlserver)
-![Git](https://img.shields.io/badge/-Git-05122A?logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?logo=visualstudiocode)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=radical)
+### 📊 GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raftywate&theme=radical)
 
 ---
 
 ### ✨ Quote of the Day
-> That it will never come again / Is what makes life so sweet." - Emily Dickinson
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/raftywate)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/raftywate)
+<a href="https://linkedin.com/in/raftywate" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/raftywate" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+---
+
+### 👀 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=raftywate&style=for-the-badge&color=blue)
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
