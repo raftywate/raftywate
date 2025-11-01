@@ -11,7 +11,6 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,angular,cpp,c,cs,python,html,css,js,typescript,sqlserver,git,github,vscode,visualstudio&theme=dark" />
 </p>
@@ -30,8 +29,24 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 ---
 
-### ✨ Quote of the Day
-> “That it will never come again / Is what makes life so sweet.” – Emily Dickinson
+### 🧭 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raftywate&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+### 🧊 3D Contribution Chart
+<p align="center">
+  <img src="https://github.com/raftywate/raftywate/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Chart" />
+</p>
+
+---
+
+### ✨ Daily Motivation
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+</p>
 
 ---
 
