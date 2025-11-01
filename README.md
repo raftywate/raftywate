@@ -43,15 +43,6 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 ---
 
-### 🎵 Now Playing on YouTube Music
-<p align="center">
-  <a href="https://music.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music"/>
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/raftywate" target="_blank">
