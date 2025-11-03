@@ -6,7 +6,7 @@
 It integrates a secure API to compile and run user code in 10+ languages (C#, Python, Java, etc.), validating solutions against hidden and visible test cases.
 
 🌱 Currently learning more about **databases** and **scalable system design**.  
-💬 Ask me about **technology, movies, books, and music.**
+💬 Ask me about **technology, movies, tv shows, books, politics and, music.**
 
 ---
 
@@ -28,7 +28,7 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raftywate&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=raftywate&theme=tokyonight&hide_border=true%22%20height=%22165%22" />
 </p>
 
 ### 🧭 GitHub Activity Graph
