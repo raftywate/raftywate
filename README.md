@@ -30,7 +30,6 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raftywate&theme=tokyonight&hide_border=true" height="165" />
 </p>
----
 
 ### 🧭 GitHub Activity Graph
 <p align="center">
