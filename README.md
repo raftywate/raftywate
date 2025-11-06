@@ -28,8 +28,8 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raftywate&theme=tokyonight&hide_border=true" height="165" />
-</p>
+  <img src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true" height="165" />
+</p
 
 ### 🧭 GitHub Activity Graph
 <p align="center">
