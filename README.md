@@ -23,18 +23,72 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true" 
+      height="165"
+    />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true" 
+      height="165"
+    />
+  </picture>
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true" height="165" />
-</p
+  <picture>
+    <source 
+      srcset="https://streak-stats.vercel.app/?user=raftywate&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <source 
+      srcset="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true" 
+      height="165"
+    />
+  </picture>
+</p>
+
 
 ### 🧭 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raftywate&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
+<picture>
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=raftywate&theme=github-light&hide_border=true" 
+    media="(prefers-color-scheme: light)"
+  />
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=raftywate&theme=tokyo-night&hide_border=true" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raftywate&theme=tokyo-night&hide_border=true" 
+    width="90%"
+  />
+</picture>
+
 
 ---
 
