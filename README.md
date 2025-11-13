@@ -94,8 +94,22 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 ### ✨ Daily Motivation
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+  <picture>
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"
+      media="(prefers-color-scheme: light)"
+    />
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+      alt="Quote of the Day"
+    />
+  </picture>
 </p>
+
 
 ---
 
