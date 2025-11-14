@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:3a3d6b,100:4b89dc&height=180&section=header&text=Hey%20there!%20I'm%20Abhishek%20👋&fontSize=32&fontAlignY=35&fontColor=ffffff)
 
 ## 🚀 About Me
-🔭 I'm a full stack developer currently working on **BitSmith** — a web application featuring a .NET 8 REST API, an Angular frontend, and a **SQL Server** database.  
+🔭 I'm a full stack developer currently working on **BitSmith**, a web application featuring a .NET 8 REST API, an Angular frontend, and a **SQL Server** database.  
 It integrates a secure API to compile and run user code in 10+ languages (C#, Python, Java, etc.), validating solutions against hidden and visible test cases.
 
 🌱 Currently learning more about **databases** and **scalable system design**.  
