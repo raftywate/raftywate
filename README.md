@@ -24,19 +24,17 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 ### 📊 GitHub Stats
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true" 
-      height="165"
-    />
-  </picture>
+  <source 
+    srcset="https://github-readme-stats-mu-one-50.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cachebuster=1"
+    media="(prefers-color-scheme: light)">
+  <source
+    srcset="https://github-readme-stats-mu-one-50.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cachebuster=1"
+    media="(prefers-color-scheme: dark)">
+  <img
+    src="https://github-readme-stats-mu-one-50.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cachebuster=1"
+    height="165" alt="RaftyWate GitHub stats">
+</picture>
+
 
   <picture>
     <source 
