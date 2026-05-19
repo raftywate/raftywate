@@ -25,7 +25,7 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 <p align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats-mu-one-50.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cachebuster=1"
+    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cachebuster=1"
     media="(prefers-color-scheme: light)">
   <source
     srcset="https://github-readme-stats-mu-one-50.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cachebuster=1"
@@ -38,7 +38,7 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=transparent&hide_border=true"
+      srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
     <source 
