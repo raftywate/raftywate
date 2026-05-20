@@ -22,7 +22,7 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <picture>
   <source 
     srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cache_id=20260519"
@@ -50,26 +50,17 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
       height="165"
     />
   </picture>
-</p>
-
+</p> -->
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.vercel.app/?user=raftywate&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <source 
-      srcset="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true" 
-      height="165"
-    />
-  </picture>
+  <img src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519&raw=true" height="165" alt="RaftyWate GitHub stats">
+
+  <img src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true&cache_id=20260519&raw=true" height="165" alt="Top Languages">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true&raw=true" height="165" alt="GitHub Streak"/>
+</p>
 
 ### 🧭 GitHub Activity Graph
 <picture>
