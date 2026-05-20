@@ -25,13 +25,13 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 <p align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cachebuster=1&cache_id=20260519"
+    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cache_id=20260519"
     media="(prefers-color-scheme: light)">
   <source
-    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cachebuster=1&cache_id=20260519"
+    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519"
     media="(prefers-color-scheme: dark)">
   <img
-    src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cachebuster=1&cache_id=20260519"
+    src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519"
     height="165" alt="RaftyWate GitHub stats">
 </picture>
 
