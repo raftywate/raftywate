@@ -22,46 +22,25 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 ---
 
 ### 📊 GitHub Stats
-<!-- <p align="center">
-  <picture>
-  <source 
-    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=transparent&hide_border=true&cache_id=20260519"
-    media="(prefers-color-scheme: light)">
-  <source
-    srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519"
-    media="(prefers-color-scheme: dark)">
+
+<p align="center">
   <img
-    src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519"
-    height="165" alt="RaftyWate GitHub stats">
-</picture>
+    src="https://github-readme-stats.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=transparent&hide_border=true&cache_id=20260519"
-      media="(prefers-color-scheme: light)"
-    />
-    <source 
-      srcset="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true&cache_id=20260519"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true&cache_id=20260519" 
-      height="165"
-    />
-  </picture>
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true&cache_id=20260519&raw=true" height="165" alt="RaftyWate GitHub stats">
-
-  <img src="https://github-readme-stats-geis-4b9ul8pg1-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true&cache_id=20260519&raw=true" height="165" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=raftywate&theme=tokyonight&hide_border=true&raw=true" height="165" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=raftywate&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
-
 ### 🧭 GitHub Activity Graph
 <picture>
   <source 
