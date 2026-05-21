@@ -25,17 +25,18 @@ It integrates a secure API to compile and run user code in 10+ languages (C#, Py
 
 <p align="center">
   <img
-    src="https://github-readme-stats-geis-3v0au3brj-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-
-  <img
     src="https://github-readme-stats-geis-3v0au3brj-abhisheks-projects-8ebcb198.vercel.app/api/top-langs/?username=raftywate&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="165"
   />
-
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-geis-3v0au3brj-abhisheks-projects-8ebcb198.vercel.app/api?username=raftywate&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+</p>
   <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=raftywate&theme=tokyonight&hide_border=true"
